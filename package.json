@@ -1,0 +1,29 @@
+{
+  "name": "startkix-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"npx codeceptjs run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exe1127/startKix-front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exe1127/startKix-front/issues"
+  },
+  "homepage": "https://github.com/exe1127/startKix-front#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.3.6"
+  },
+  "dependencies": {
+    "@codeceptjs/configure": "^0.10.0",
+    "@codeceptjs/examples": "^1.2.1",
+    "@codeceptjs/ui": "^0.4.7",
+    "allure-commandline": "^2.20.1"
+  }
+}
