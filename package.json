@@ -7,6 +7,7 @@
     "start":"npx codeceptjs run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/exe1127/startKix-front.git"
