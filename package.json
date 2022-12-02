@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"npx codeceptjs run",
+    "start": "npx codeceptjs run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "commonjs",
@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/exe1127/startKix-front#readme",
   "devDependencies": {
-    "codeceptjs": "^3.3.6"
+    "codeceptjs": "^3.3.6",
+    "webdriverio": "^6.12.1"
   },
   "dependencies": {
     "@codeceptjs/configure": "^0.10.0",
