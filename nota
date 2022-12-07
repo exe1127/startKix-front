@@ -1,9 +1,0 @@
-epica 6 se necesitara una estrella en vivo
-
-324, 326 y  327 no tiene sentido ya que no se puede ver la camara por emulador 
- 138 al 140 son todas cosas de solicitud de registro de estrella
-
-285 y 315 no se puede realizar por la camara del emulador
-
-282 no se puede acceder a los botones de navegacion nativos de android 
-solo se pudo con home y back "https://codecept.io/helpers/TestCafe/#presskey"
