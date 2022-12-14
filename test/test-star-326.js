@@ -18,7 +18,7 @@ Scenario(`As a Fan in a call with 30 seconds left, I want the screen to change t
     I.tap('#gotIt');
     I.wait(30);
 
-    I.wait((60*4))
+    I.wait((60*5))
     
     pause();
 
