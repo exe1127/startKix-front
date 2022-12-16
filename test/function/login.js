@@ -1,5 +1,5 @@
 const { loginInit } = require('./init-function');
-const { user, password } = { user: 'veronica1@nonerds.com', password: 'Testtest2' };
+const { user, password } = { user: 'apptester@nonerds.com', password: 'Testtest6' };
 const login = (I) => {
     loginInit(I);
     I.fillField('#email', user);

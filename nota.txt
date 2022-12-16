@@ -9,3 +9,10 @@ epica 6 se necesitara una estrella en vivo
 solo se pudo con home y back "https://codecept.io/helpers/TestCafe/#presskey"
 
 279 no se puede realizar por falta de camara  en el emulador 
+
+apptester@nonerds.com
+
+password : Testtest6
+
+
+134 la fecha no se puede agregar de forma concreta con appium
