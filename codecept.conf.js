@@ -8,7 +8,7 @@ exports.config = {
       device: 'emulator-5554',
       desiredCapabilities: {
         automationName: 'UiAutomator2',
-        appPackage: 'com.starkixltd',  // Package name of your app
+        appPackage: 'com.starkixltd.staging',  // Package name of your app
         appActivity: 'com.starkixltd.MainActivity', // App activity of the app
       }
     }
