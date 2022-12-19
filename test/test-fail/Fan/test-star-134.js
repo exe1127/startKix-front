@@ -1,5 +1,5 @@
 const login = require('../../function/login');
-const myProfile= require('../../function/myProfile');
+const myProfile = require('../../function/myProfile');
 Feature('Update my profile');
 
 Scenario(`As a Fan on Profile, I must be able to update my profile.`, ({ I }) => {

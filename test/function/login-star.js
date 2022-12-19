@@ -1,5 +1,6 @@
 
-const { user, password } = { user: 'va1@nonerds.com', password: 'Testtest3' };
+//const { user, password } = { user: 'va1@nonerds.com', password: 'Testtest3' };
+const { user, password } = { user: 'apptester@nonerds.com', password: 'Testtest6' };
 const { loginInit } = require('./init-function');
 const loginS = (I) => {
     loginInit(I);

@@ -22,3 +22,6 @@ password : Testtest6
 321 ya esta la visualizacion de la cola
 
 323 ya esta la cuenta de 10 a 1 para comenzar el en vivo 
+320 ya esta definido
+
+328 codigo para star 345234
