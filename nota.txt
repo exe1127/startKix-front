@@ -18,3 +18,7 @@ password : Testtest6
 134 la fecha no se puede agregar de forma concreta con appium
 
 149 el boton de continuar de delete account no funciona 
+
+321 ya esta la visualizacion de la cola
+
+323 ya esta la cuenta de 10 a 1 para comenzar el en vivo 
