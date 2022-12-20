@@ -25,3 +25,13 @@ password : Testtest6
 320 ya esta definido
 
 328 codigo para star 345234
+
+173 no se puede hacer porque no se puede compartir en email/what
+
+194 no se puede hacer porque tiene que copiar en algun explorador y eso va mas de la automatizacion de la aplicacion en si 
+
+141 no se puede hacer por el tema de recibir email o sms 
+
+140 ya esta resuelto 
+
+334 esta compltado esa parte
