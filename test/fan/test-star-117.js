@@ -1,4 +1,4 @@
-const login = require('./function/login')
+const login = require('../function/login')
 
 Feature('star profiles');
 

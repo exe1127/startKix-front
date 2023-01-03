@@ -1,9 +1,10 @@
-const login = require('./function/login')
+const login = require('../function/login')
 
 Feature('View star profiles');
 
 Scenario(`As a Fan who tapped on a star, I want to see that star’s profile.`, ({ I }) => {
     login(I);
+    //depende de que este una estrella en vivo
     I.wait(2);
     I.tap({ xpand: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/android.view.ViewGroup/android.widget.HorizontalScrollView[1]/android.view.ViewGroup/android.view.ViewGroup[1]' })
     I.wait(2);
