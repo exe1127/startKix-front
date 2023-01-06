@@ -1,6 +1,6 @@
 const register = require('../../function/register');
 
-const cod = 345234;
+const cod = '077584'; //ciodgo de star
 const { password } = { password: 'Nonerds' }
 //esta completo pero tiene problema con la camara o la galeria para elegir fotos 
 Feature('Create my profile');

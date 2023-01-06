@@ -23,7 +23,7 @@ password : Testtest6
 323 ya esta la cuenta de 10 a 1 para comenzar el en vivo 
 320 ya esta definido
 
-328 codigo para star 345234
+328 codigo para star 077584
 
 173 no se puede hacer porque no se puede compartir en email/what
 
