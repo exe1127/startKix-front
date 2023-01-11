@@ -14,6 +14,16 @@ apptester@nonerds.com
 password : Testtest6
 
 
+
+exequiel.zalazar11@nonerds.com
+
+password : TestTest
+
+exequiel.zalazar12@nonerds.com   demo
+
+password : TestTest
+
+
 134 la fecha no se puede agregar de forma concreta con appium
 
 149 el boton de continuar de delete account no funciona 
