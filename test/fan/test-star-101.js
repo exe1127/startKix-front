@@ -1,6 +1,6 @@
 
-const { first, last, email, phone } = { first: 'exe', last: 'z1', email: 'exez1@nonerds.com', phone: +543624747873 }
-const password = '14141-'
+const { first, last, email, phone, password } = { first: 'exe', last: 'z1', email: 'exez3@nonerds.com', phone: +543624747873, password:'14141-' }
+
 Feature('Join as Fan');
 
 Scenario('test sing up and verific caracter password', ({ I }) => {

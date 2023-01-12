@@ -1,6 +1,8 @@
+109 no se puede realizar por el scrool  de las categorias
 
 
- 138 al 140 son todas cosas de solicitud de registro de estrella
+
+138 al 140 son todas cosas de solicitud de registro de estrella
 
 285 y 315 no se puede realizar por la camara del emulador ***
 
