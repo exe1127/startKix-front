@@ -25,6 +25,20 @@ exequiel.zalazar12@nonerds.com   demo
 
 password : TestTest
 
+exequiel.zalazar16@nonerds.com   
+
+password : TestTest
+
+exequiel.zalazar17@nonerds.com   
+
+password : TestTest
+
+exequiel.zalazar18@nonerds.com    fan solo
+
+password : TestTest
+
+exequiel.zalazar19@nonerds.com    
+password : TestTest
 
 134 la fecha no se puede agregar de forma concreta con appium
 
