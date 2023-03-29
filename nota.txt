@@ -1,4 +1,5 @@
 109 no se puede realizar por el scrool  de las categorias
+codigo de demo 345234
 
 
 
@@ -25,6 +26,10 @@ exequiel.zalazar12@nonerds.com   demo
 
 password : TestTest
 
+exequiel.zalazar13@nonerds.com   demo
+
+password : TestTest
+
 exequiel.zalazar16@nonerds.com   
 
 password : TestTest
@@ -38,6 +43,25 @@ exequiel.zalazar18@nonerds.com    fan solo
 password : TestTest
 
 exequiel.zalazar19@nonerds.com    
+password : TestTest
+
+exequiel.zalazar21@nonerds.com    
+password : TestTest
+
+exequiel.zalazar23@nonerds.com    fan solo
+
+password : TestTest
+
+exequiel.zalazar24@nonerds.com    fan solo
+
+password : TestTest
+
+exequiel.zalazar25@nonerds.com    fan solo
+
+password : TestTest
+
+exequiel.zalazar26@nonerds.com    
+
 password : TestTest
 
 134 la fecha no se puede agregar de forma concreta con appium
